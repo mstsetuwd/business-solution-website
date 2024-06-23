@@ -1,0 +1,66 @@
+.web{
+    background-color: rgb(238, 241, 244);
+}
+.nav1{
+    background-color: rgb(6, 6, 85);
+}
+.color{
+    color: aliceblue;
+    text-decoration: none;
+}
+.a2{
+    margin-left: 20px;
+}
+.child2{
+    color: #f1f2f7;
+    display: flex;
+}
+.a3{
+    background-color: rgb(49, 113, 183);
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    margin-left: 30px;
+}
+/* navbar-2 start */
+.logo{
+    width: 140px;
+    height: 60px;
+}
+.h1{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.n2-d1{
+    display: flex;
+}
+.nav-link1{
+    margin-left: 80px;
+    margin-top: 6px;
+    color: rgb(33, 128, 182);
+    text-decoration: none;
+}
+.nav-link2{
+    margin-left: 30px;
+    margin-top: 6px;
+    color: rgb(33, 128, 182);
+    text-decoration: none;
+}
+.color3{
+    color: blue;
+}
+.color4{
+    color: rgb(1, 1, 12);
+}
+.img1{
+    height: 50px;
+    margin: 0px;
+}
+.hotline{
+    display: flex;
+}
+.hl{
+    margin-right: 20px;
+}
